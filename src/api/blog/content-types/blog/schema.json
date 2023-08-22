@@ -35,7 +35,59 @@
     "blogpreview": {
       "type": "text"
     },
-    "blogdesc": {
+    "blog_img_1": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "blog_img_2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "blog_img_3": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "blog_img_4": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "blog_intro": {
+      "type": "richtext"
+    },
+    "blog_sub_1": {
+      "type": "richtext"
+    },
+    "blog_sub_2": {
+      "type": "richtext"
+    },
+    "blog_sub_3": {
+      "type": "richtext"
+    },
+    "blog_sub_4": {
       "type": "richtext"
     }
   }
