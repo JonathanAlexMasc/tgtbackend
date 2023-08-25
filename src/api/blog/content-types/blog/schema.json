@@ -82,6 +82,9 @@
     },
     "blog_sub_4": {
       "type": "richtext"
+    },
+    "likeCount": {
+      "type": "integer"
     }
   }
 }
